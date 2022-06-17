@@ -8,10 +8,13 @@ public class MainMenu : MonoBehaviour
     
     public void MulaiGame()
     {
-        SceneManager.LoadScene("LevelEasy");
+        SceneManager.LoadScene("PilihScene");
     }
 
-    
+    public void Option(){
+        SceneManager.LoadScene("DoctorScene");
+    }
+
     public void ExitGame()
     {
         Application.Quit();

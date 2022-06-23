@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/PilihScene.unity
     guid: 34d523faef428b04fa3b1e7dd8b3983f
   - enabled: 1
-    path: Assets/Scenes/DoctorScene1.unity
+    path: Assets/Scenes/DoctorScene.unity
     guid: 88da1d2b255106d42867900787334fb2
   - enabled: 1
     path: Assets/Scenes/PedesaanScene.unity
